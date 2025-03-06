@@ -1,5 +1,3 @@
----
-title: Cat API Spec 2.0
-description: Cat API Spec 2.0
-openAPISpec:  /petstore.json
---- 
+import "../../styles/main.css";
+
+<RedoclyAPIBlock src="https://developer.adobe.com/adls-beta/openapi/openapi.json" />
